@@ -6,6 +6,8 @@
 
 Welcome to **The Shame License™**, the world's first (citation needed, fuck you) website enhancement designed to publicly humiliate people for arriving through AI-generated links.
 
+*PREVIEW: [here](https://dakata1337.github.io/shame.js/?utm_source=chatgpt)*
+
 Humanity invented fire, agriculture, electricity, and space travel.
 
 Then some sleep-deprived bastard invented a JavaScript popup that screams at people for using ChatGPT.
